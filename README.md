@@ -13,10 +13,8 @@ A lightweight userscript that automatically "cleans" Twitch chat in real-time. I
 ## Installation
 
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Click on the **[Raw]** link of the `twitch-sanitizer.user.js` file in this repository.
-3. Your browser should prompt you to install the script.
-4. Refresh any open Twitch tabs.
-
+2. Paste the entire content of the javascript file into the editor in your userscript manager, and save it.
+3. Refresh your Twitch page for the script to load
 ## Customization
 
 You can easily add your own "worst offenders" by editing the `map` object at the top of the script:

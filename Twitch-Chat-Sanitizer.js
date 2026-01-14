@@ -4,8 +4,8 @@
 // @version      0.1.0
 // @match        https://www.twitch.tv/*
 // @grant        none
-// @downloadURL  [Link to your raw script on GitHub/Gist]
-// @updateURL    [Link to your raw script on GitHub/Gist]
+// @downloadURL  https://raw.githubusercontent.com/magnusribsskog/Twitch-Chat-Sanitizer-Script-for-TamperMonkey/main/Twitch-Chat-Sanitizer.js
+// @updateURL    https://raw.githubusercontent.com/magnusribsskog/Twitch-Chat-Sanitizer-Script-for-TamperMonkey/main/Twitch-Chat-Sanitizer.js
 // ==/UserScript==
 
 (function() {

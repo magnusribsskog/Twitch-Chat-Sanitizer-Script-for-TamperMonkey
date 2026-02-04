@@ -1,6 +1,6 @@
 # Twitch Chat Sanitizer
 
-A lightweight userscript that automatically "cleans" Twitch chat in real-time. It targets the "worst of the worst" grammar and punctuation issues to make the chat experience more readable and less of a headache.
+A lightweight userscript that automatically "cleans" Twitch chat in real-time. It targets the "worst of the worst" grammar and punctuation issues to make the chat experience less offensive.
 
 ## Features
 

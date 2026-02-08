@@ -7,8 +7,8 @@ A lightweight userscript that automatically "cleans" Twitch chat in real-time. I
 * **Auto-Capitalization**: Automatically capitalizes the first letter of every chat message.
 * **Contraction Fixes**: Automatically fixes common shorthand (e.g., `im` -> `I'm`, `dont` -> `don't`, `shes` -> `she's`).
 * **Punctuation Cleanup**: Strips away repeated punctuation (e.g., `?????` becomes `?`).
-* **Minimalist & Lightweight**: No AI, no external API calls, and zero tracking. It uses a surgical `MutationObserver` to ensure it doesn't lag your browser.
-* **Zero-UI**: It works entirely in the background. Just install it and enjoy a civilized chat.
+* **Minimalist & Lightweight**: No AI, no external API calls, and zero tracking. 
+
 
 ## Installation
 
@@ -17,7 +17,7 @@ A lightweight userscript that automatically "cleans" Twitch chat in real-time. I
 3. Refresh your Twitch page for the script to load
 ## Customization
 
-You can easily add your own "worst offenders" by editing the `map` object at the top of the script:
+You can add your own "worst offenders" by editing the `map` object at the top of the script:
 
 ```javascript
 const map = {

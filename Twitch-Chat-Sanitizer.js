@@ -10,20 +10,23 @@
 
 (function() {
     const map = {
-        "im": "I'm",
-        "dont": "don't",
-        "cant": "can't",
-        "wanna": "want to",
-        "u": "you",
-        "hes": "he's",
-        "shes": "she's",
-        "theyre": "they're",
-        "wouldnt": "wouldn't",
-        "couldnt": "couldn't",
-        "shouldnt": "shouldn't",
-        "thats": "that's",
-        "whos": "who's",
-        "i": "I",
+    "i": "I",
+    "im": "I'm",
+    "ive": "I've",
+    "id": "I'd",
+    "dont": "don't",
+    "cant": "can't",
+    "wont": "won't",
+    "doesnt": "doesn't",
+    "didnt": "didn't",
+    "youre": "you're",
+    "hes": "he's",
+    "shes": "she's",
+    "theyre": "they're",
+    "u": "you",
+    "ur": "your",
+    "wanna": "want to",
+    "gonna": "going to"
     };
 
     const cleanNode = (node) => {
